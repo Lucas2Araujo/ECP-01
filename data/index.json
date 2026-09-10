@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Aula 01 - ASL.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Geral",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Aula 01 - ASL.pdf",
+    "size_human": "608.5 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Aula%2001%20-%20ASL.pdf"
+  },
+  {
+    "name": "Aula XX - ASL.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Geral",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Aula XX - ASL.pdf",
+    "size_human": "42.6 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Aula%20XX%20-%20ASL.pdf"
+  },
+  {
+    "name": "Sinais e Sistemas Lineares_Lathi.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Livros",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Livros/Sinais e Sistemas Lineares_Lathi.pdf",
+    "size_human": "21.6 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Livros/Sinais%20e%20Sistemas%20Lineares_Lathi.pdf"
+  },
+  {
+    "name": "Sinais e Sistemas_Haykin .pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Livros",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Livros/Sinais e Sistemas_Haykin .pdf",
+    "size_human": "69.7 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Livros/Sinais%20e%20Sistemas_Haykin%20.pdf"
+  },
+  {
+    "name": "Aula_0_-_Apresentao_da_Disciplina.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_0_-_Apresentao_da_Disciplina.pdf",
+    "size_human": "424.8 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_0_-_Apresentao_da_Disciplina.pdf"
+  },
+  {
+    "name": "Aula_10_-_Variveis_de_Estado.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_10_-_Variveis_de_Estado.pdf",
+    "size_human": "842.3 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_10_-_Variveis_de_Estado.pdf"
+  },
+  {
+    "name": "Aula_11_-_Srie_de_Fourier_-_Contnuo_-_Final.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_11_-_Srie_de_Fourier_-_Contnuo_-_Final.pdf",
+    "size_human": "1.3 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_11_-_Srie_de_Fourier_-_Contnuo_-_Final.pdf"
+  },
+  {
+    "name": "Aula_12_-_Transformada_de_Fourier.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_12_-_Transformada_de_Fourier.pdf",
+    "size_human": "513.3 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_12_-_Transformada_de_Fourier.pdf"
+  },
+  {
+    "name": "Aula_13_-_Propriedades_da_Transformada_de_Fourier.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_13_-_Propriedades_da_Transformada_de_Fourier.pdf",
+    "size_human": "654.8 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_13_-_Propriedades_da_Transformada_de_Fourier.pdf"
+  },
+  {
+    "name": "Aula_15_-_Transformada_de_Laplace.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_15_-_Transformada_de_Laplace.pdf",
+    "size_human": "1003.3 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_15_-_Transformada_de_Laplace.pdf"
+  },
+  {
+    "name": "Aula_16_-_A_Transformada_de_Laplace_Unilateral_e_Bilateral.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_16_-_A_Transformada_de_Laplace_Unilateral_e_Bilateral.pdf",
+    "size_human": "795.9 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_16_-_A_Transformada_de_Laplace_Unilateral_e_Bilateral.pdf"
+  },
+  {
+    "name": "Aula_17_-_Aplicaes_da_Transformada_Laplace.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_17_-_Aplicaes_da_Transformada_Laplace.pdf",
+    "size_human": "654.9 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_17_-_Aplicaes_da_Transformada_Laplace.pdf"
+  },
+  {
+    "name": "Aula_1_-_Introduo_a_Sinais_e_Sistemas.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_1_-_Introduo_a_Sinais_e_Sistemas.pdf",
+    "size_human": "1.1 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_1_-_Introduo_a_Sinais_e_Sistemas.pdf"
+  },
+  {
+    "name": "Aula_2_-_Classificao_de_Sinais.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_2_-_Classificao_de_Sinais.pdf",
+    "size_human": "1.6 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_2_-_Classificao_de_Sinais.pdf"
+  },
+  {
+    "name": "Aula_3_-_Operaes_Bsicas_com_Sinais.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_3_-_Operaes_Bsicas_com_Sinais.pdf",
+    "size_human": "875.8 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_3_-_Operaes_Bsicas_com_Sinais.pdf"
+  },
+  {
+    "name": "Aula_4_-_Sinais_Elementares.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_4_-_Sinais_Elementares.pdf",
+    "size_human": "1.2 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_4_-_Sinais_Elementares.pdf"
+  },
+  {
+    "name": "Aula_5_-_Propriedade_de_Sistemas.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_5_-_Propriedade_de_Sistemas.pdf",
+    "size_human": "1.1 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_5_-_Propriedade_de_Sistemas.pdf"
+  },
+  {
+    "name": "Aula_6_-_Resposta_ao_Impulso.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_6_-_Resposta_ao_Impulso.pdf",
+    "size_human": "1.1 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_6_-_Resposta_ao_Impulso.pdf"
+  },
+  {
+    "name": "Aula_7_-_Propriedades_da_Resposta_ao_Impulso.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_7_-_Propriedades_da_Resposta_ao_Impulso.pdf",
+    "size_human": "1.2 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_7_-_Propriedades_da_Resposta_ao_Impulso.pdf"
+  },
+  {
+    "name": "Aula_8_-_Representao_por_Equaes_Diferenciais_e_de_Diferenas.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_8_-_Representao_por_Equaes_Diferenciais_e_de_Diferenas.pdf",
+    "size_human": "1.1 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_8_-_Representao_por_Equaes_Diferenciais_e_de_Diferenas.pdf"
+  },
+  {
+    "name": "Aula_9_-_Diagrama_de_Blocos.pdf",
+    "discipline": "Analise de Sistemas Lineares (Pedro)",
+    "category": "Slides",
+    "relative_path": "Analise de Sistemas Lineares (Pedro)/Slides/Aula_9_-_Diagrama_de_Blocos.pdf",
+    "size_human": "480.5 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_9_-_Diagrama_de_Blocos.pdf"
+  },
+  {
+    "name": "Modulo_I_-_p1-p2.pdf",
+    "discipline": "Instrumentação (Madson)",
+    "category": "Geral",
+    "relative_path": "Instrumentação (Madson)/Modulo_I_-_p1-p2.pdf",
+    "size_human": "2.9 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Instrumenta%C3%A7%C3%A3o%20%28Madson%29/Modulo_I_-_p1-p2.pdf"
+  },
+  {
+    "name": "Modulo_I_-_p3.pdf",
+    "discipline": "Instrumentação (Madson)",
+    "category": "Geral",
+    "relative_path": "Instrumentação (Madson)/Modulo_I_-_p3.pdf",
+    "size_human": "884.4 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Instrumenta%C3%A7%C3%A3o%20%28Madson%29/Modulo_I_-_p3.pdf"
+  },
+  {
+    "name": "Modulo_I_-_p4.pdf",
+    "discipline": "Instrumentação (Madson)",
+    "category": "Geral",
+    "relative_path": "Instrumentação (Madson)/Modulo_I_-_p4.pdf",
+    "size_human": "1.6 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Instrumenta%C3%A7%C3%A3o%20%28Madson%29/Modulo_I_-_p4.pdf"
+  },
+  {
+    "name": "Aula_0.pdf",
+    "discipline": "Linguagens Formais e Autômatos (Bruno)",
+    "category": "Geral",
+    "relative_path": "Linguagens Formais e Autômatos (Bruno)/Aula_0.pdf",
+    "size_human": "195.5 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Linguagens%20Formais%20e%20Aut%C3%B4matos%20%28Bruno%29/Aula_0.pdf"
+  },
+  {
+    "name": "Aula_2_redux.pdf",
+    "discipline": "Linguagens Formais e Autômatos (Bruno)",
+    "category": "Geral",
+    "relative_path": "Linguagens Formais e Autômatos (Bruno)/Aula_2_redux.pdf",
+    "size_human": "368.6 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Linguagens%20Formais%20e%20Aut%C3%B4matos%20%28Bruno%29/Aula_2_redux.pdf"
+  },
+  {
+    "name": "Aula_1_TeoriaDosConjuntos.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Aula_1_TeoriaDosConjuntos.pdf",
+    "size_human": "457.1 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Aula_1_TeoriaDosConjuntos.pdf"
+  },
+  {
+    "name": "Aula_2_Combinatoria.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Aula_2_Combinatoria.pdf",
+    "size_human": "280.3 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Aula_2_Combinatoria.pdf"
+  },
+  {
+    "name": "Aula_3_Logica_Formal.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Aula_3_Logica_Formal.pdf",
+    "size_human": "765.1 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Aula_3_Logica_Formal.pdf"
+  },
+  {
+    "name": "Aula_4_demonstracao.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Aula_4_demonstracao.pdf",
+    "size_human": "125.2 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Aula_4_demonstracao.pdf"
+  },
+  {
+    "name": "Aula_5_Relacoes.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Aula_5_Relacoes.pdf",
+    "size_human": "294.6 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Aula_5_Relacoes.pdf"
+  },
+  {
+    "name": "Aula_6.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Aula_6.pdf",
+    "size_human": "371.1 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Aula_6.pdf"
+  },
+  {
+    "name": "exercicios_logica_demonstracao_2026_1.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/exercicios_logica_demonstracao_2026_1.pdf",
+    "size_human": "110.1 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/exercicios_logica_demonstracao_2026_1.pdf"
+  },
+  {
+    "name": "modelo_prova_1_LMD.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/modelo_prova_1_LMD.pdf",
+    "size_human": "605.2 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/modelo_prova_1_LMD.pdf"
+  },
+  {
+    "name": "modelo_prova_2_2026_1_LMD.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/modelo_prova_2_2026_1_LMD.pdf",
+    "size_human": "728.4 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/modelo_prova_2_2026_1_LMD.pdf"
+  },
+  {
+    "name": "modelo_prova_3_2026_1_LMD.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/modelo_prova_3_2026_1_LMD.pdf",
+    "size_human": "415.2 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/modelo_prova_3_2026_1_LMD.pdf"
+  },
+  {
+    "name": "questoes_combinatoria.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/questoes_combinatoria.pdf",
+    "size_human": "78.9 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/questoes_combinatoria.pdf"
+  },
+  {
+    "name": "questoes_INDUCAO_2026_1.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Geral",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/questoes_INDUCAO_2026_1.pdf",
+    "size_human": "115.4 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/questoes_INDUCAO_2026_1.pdf"
+  },
+  {
+    "name": "Fundamentos matemáticos para a ciência da computação_ -- Judith L_ Gersting -- 7, 2016 -- LTC-LIVROS TECNICOS E CIENTIFICOS EDITORA LDA -- 9788521632597 -- 79e1cd5c12a8a99b44b68a6a3dc37d4d -- Anna’s Archive.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Livros",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Livros/Fundamentos matemáticos para a ciência da computação_ -- Judith L_ Gersting -- 7, 2016 -- LTC-LIVROS TECNICOS E CIENTIFICOS EDITORA LDA -- 9788521632597 -- 79e1cd5c12a8a99b44b68a6a3dc37d4d -- Anna’s Archive.pdf",
+    "size_human": "12.0 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Livros/Fundamentos%20matem%C3%A1ticos%20para%20a%20ci%C3%AAncia%20da%20computa%C3%A7%C3%A3o_%20--%20Judith%20L_%20Gersting%20--%207%2C%202016%20--%20LTC-LIVROS%20TECNICOS%20E%20CIENTIFICOS%20EDITORA%20LDA%20--%209788521632597%20--%2079e1cd5c12a8a99b44b68a6a3dc37d4d%20--%20Anna%E2%80%99s%20Archive.pdf"
+  },
+  {
+    "name": "Fundamentos_Matemticos_para_Ciencia_da_Computacao_Gersting.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Livros",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Livros/Fundamentos_Matemticos_para_Ciencia_da_Computacao_Gersting.pdf",
+    "size_human": "8.8 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Livros/Fundamentos_Matemticos_para_Ciencia_da_Computacao_Gersting.pdf"
+  },
+  {
+    "name": "Matematica_Discreta_Colecao_Schaum_2ed_-_Seymour_Lipschutz_e_Marc_Lipson_REVIS.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Livros",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Livros/Matematica_Discreta_Colecao_Schaum_2ed_-_Seymour_Lipschutz_e_Marc_Lipson_REVIS.pdf",
+    "size_human": "13.2 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Livros/Matematica_Discreta_Colecao_Schaum_2ed_-_Seymour_Lipschutz_e_Marc_Lipson_REVIS.pdf"
+  },
+  {
+    "name": "Matemática Discreta - 3ed -- Seymour Lipschutz, Marc Lipson -- Coleção Schaum, 3, 2013 -- Bookman Editora -- 9788565837781 -- a4ec0f0e85078c90bd813b9eb1e3e05f -- Anna’s Archive - convertido.pdf",
+    "discipline": "MATEMÁTICA discreta (Bruno)",
+    "category": "Livros",
+    "relative_path": "MATEMÁTICA discreta (Bruno)/Livros/Matemática Discreta - 3ed -- Seymour Lipschutz, Marc Lipson -- Coleção Schaum, 3, 2013 -- Bookman Editora -- 9788565837781 -- a4ec0f0e85078c90bd813b9eb1e3e05f -- Anna’s Archive - convertido.pdf",
+    "size_human": "19.3 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/MATEM%C3%81TICA%20discreta%20%28Bruno%29/Livros/Matem%C3%A1tica%20Discreta%20-%203ed%20--%20Seymour%20Lipschutz%2C%20Marc%20Lipson%20--%20Cole%C3%A7%C3%A3o%20Schaum%2C%203%2C%202013%20--%20Bookman%20Editora%20--%209788565837781%20--%20a4ec0f0e85078c90bd813b9eb1e3e05f%20--%20Anna%E2%80%99s%20Archive%20-%20convertido.pdf"
+  },
+  {
+    "name": "An_Introduction_to_Formal_Methods_for_the_Development_of_Safety-critical_Applica.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Artigos Para Ler",
+    "relative_path": "Metódos Formais (Bruno)/Artigos Para Ler/An_Introduction_to_Formal_Methods_for_the_Development_of_Safety-critical_Applica.pdf",
+    "size_human": "273.9 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Artigos%20Para%20Ler/An_Introduction_to_Formal_Methods_for_the_Development_of_Safety-critical_Applica.pdf"
+  },
+  {
+    "name": "peterson.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Artigos Para Ler",
+    "relative_path": "Metódos Formais (Bruno)/Artigos Para Ler/peterson.pdf",
+    "size_human": "2.5 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Artigos%20Para%20Ler/peterson.pdf"
+  },
+  {
+    "name": "Petri_Nets_-_Properties_analysis_and_applications_Murata.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Artigos Para Ler",
+    "relative_path": "Metódos Formais (Bruno)/Artigos Para Ler/Petri_Nets_-_Properties_analysis_and_applications_Murata.pdf",
+    "size_human": "3.5 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Artigos%20Para%20Ler/Petri_Nets_-_Properties_analysis_and_applications_Murata.pdf"
+  },
+  {
+    "name": "Redes_de_Petri_Joo_Damasco_Mangueira_Braga_et_al-1.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Artigos Para Ler",
+    "relative_path": "Metódos Formais (Bruno)/Artigos Para Ler/Redes_de_Petri_Joo_Damasco_Mangueira_Braga_et_al-1.pdf",
+    "size_human": "416.5 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Artigos%20Para%20Ler/Redes_de_Petri_Joo_Damasco_Mangueira_Braga_et_al-1.pdf"
+  },
+  {
+    "name": "Aula_0.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Geral",
+    "relative_path": "Metódos Formais (Bruno)/Aula_0.pdf",
+    "size_human": "170.2 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Aula_0.pdf"
+  },
+  {
+    "name": "Aula_0_preambulo.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Geral",
+    "relative_path": "Metódos Formais (Bruno)/Aula_0_preambulo.pdf",
+    "size_human": "437.9 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Aula_0_preambulo.pdf"
+  },
+  {
+    "name": "Aula_1.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Geral",
+    "relative_path": "Metódos Formais (Bruno)/Aula_1.pdf",
+    "size_human": "986.3 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Aula_1.pdf"
+  },
+  {
+    "name": "Aula_Redes_de_Petri.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Geral",
+    "relative_path": "Metódos Formais (Bruno)/Aula_Redes_de_Petri.pdf",
+    "size_human": "1.2 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Aula_Redes_de_Petri.pdf"
+  },
+  {
+    "name": "modelo_prova_1_2026_1_MF.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Geral",
+    "relative_path": "Metódos Formais (Bruno)/modelo_prova_1_2026_1_MF.pdf",
+    "size_human": "719.1 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/modelo_prova_1_2026_1_MF.pdf"
+  },
+  {
+    "name": "modelo_prova_2_2026_1_MF.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Geral",
+    "relative_path": "Metódos Formais (Bruno)/modelo_prova_2_2026_1_MF.pdf",
+    "size_human": "728.7 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/modelo_prova_2_2026_1_MF.pdf"
+  },
+  {
+    "name": "modelo_prova_3_2026_1_MF.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Geral",
+    "relative_path": "Metódos Formais (Bruno)/modelo_prova_3_2026_1_MF.pdf",
+    "size_human": "1.0 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/modelo_prova_3_2026_1_MF.pdf"
+  },
+  {
+    "name": "An Introduction to Practical Formal Methods Using Temporal -- Michael Fisher, Michael Fisher -- 1st edition, Chichester, West Sussex, U_K, c2011 -- 9780470027882 -- ae57f3dc340a93ca044955045183746e -- Anna’s Archive.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Livros",
+    "relative_path": "Metódos Formais (Bruno)/Livros/An Introduction to Practical Formal Methods Using Temporal -- Michael Fisher, Michael Fisher -- 1st edition, Chichester, West Sussex, U_K, c2011 -- 9780470027882 -- ae57f3dc340a93ca044955045183746e -- Anna’s Archive.pdf",
+    "size_human": "2.1 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Livros/An%20Introduction%20to%20Practical%20Formal%20Methods%20Using%20Temporal%20--%20Michael%20Fisher%2C%20Michael%20Fisher%20--%201st%20edition%2C%20Chichester%2C%20West%20Sussex%2C%20U_K%2C%20c2011%20--%209780470027882%20--%20ae57f3dc340a93ca044955045183746e%20--%20Anna%E2%80%99s%20Archive.pdf"
+  },
+  {
+    "name": "Formal Logical Methods For System Security And Correctness -- Pfaller, Christian; Nipkow, Tobias; Grumberg, Orna -- IOS Press, Amsterdam, Netherlands, -- 9781435677883 -- 11600250ed2da13e4753dcb05cf889e2 -- Anna’s Archive.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Livros",
+    "relative_path": "Metódos Formais (Bruno)/Livros/Formal Logical Methods For System Security And Correctness -- Pfaller, Christian; Nipkow, Tobias; Grumberg, Orna -- IOS Press, Amsterdam, Netherlands, -- 9781435677883 -- 11600250ed2da13e4753dcb05cf889e2 -- Anna’s Archive.pdf",
+    "size_human": "17.9 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Livros/Formal%20Logical%20Methods%20For%20System%20Security%20And%20Correctness%20--%20Pfaller%2C%20Christian%3B%20Nipkow%2C%20Tobias%3B%20Grumberg%2C%20Orna%20--%20IOS%20Press%2C%20Amsterdam%2C%20Netherlands%2C%20--%209781435677883%20--%2011600250ed2da13e4753dcb05cf889e2%20--%20Anna%E2%80%99s%20Archive.pdf"
+  },
+  {
+    "name": "Software Specification Methods -- edited by Henri Habrias, Marc Frappier -- John Wiley & Sons, Inc_, London, 2006 -- Wiley-ISTE -- 9780470394656 -- 606eaa996342e798247e43d5a15335f6 -- Anna’s Archive.pdf",
+    "discipline": "Metódos Formais (Bruno)",
+    "category": "Livros",
+    "relative_path": "Metódos Formais (Bruno)/Livros/Software Specification Methods -- edited by Henri Habrias, Marc Frappier -- John Wiley & Sons, Inc_, London, 2006 -- Wiley-ISTE -- 9780470394656 -- 606eaa996342e798247e43d5a15335f6 -- Anna’s Archive.pdf",
+    "size_human": "20.5 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Met%C3%B3dos%20Formais%20%28Bruno%29/Livros/Software%20Specification%20Methods%20--%20edited%20by%20Henri%20Habrias%2C%20Marc%20Frappier%20--%20John%20Wiley%20%26%20Sons%2C%20Inc_%2C%20London%2C%202006%20--%20Wiley-ISTE%20--%209780470394656%20--%20606eaa996342e798247e43d5a15335f6%20--%20Anna%E2%80%99s%20Archive.pdf"
+  },
+  {
+    "name": "Atividade1PdsLucasAraujoDominici.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Atividades",
+    "relative_path": "PDS (Davi)/Atividades/Atividade1PdsLucasAraujoDominici.pdf",
+    "size_human": "29.4 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Atividades/Atividade1PdsLucasAraujoDominici.pdf"
+  },
+  {
+    "name": "Atividade2_Pds(v4)LucasAraujo_JenniferBarraza.drawio.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Atividades",
+    "relative_path": "PDS (Davi)/Atividades/Atividade2_Pds(v4)LucasAraujo_JenniferBarraza.drawio.pdf",
+    "size_human": "46.6 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Atividades/Atividade2_Pds%28v4%29LucasAraujo_JenniferBarraza.drawio.pdf"
+  },
+  {
+    "name": "AtividadePds_3_LucasAraujo_JenifferBarraza.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Atividades",
+    "relative_path": "PDS (Davi)/Atividades/AtividadePds_3_LucasAraujo_JenifferBarraza.pdf",
+    "size_human": "87.8 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Atividades/AtividadePds_3_LucasAraujo_JenifferBarraza.pdf"
+  },
+  {
+    "name": "Aula_digrama_classes.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/Aula_digrama_classes.pdf",
+    "size_human": "592.7 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Aula_digrama_classes.pdf"
+  },
+  {
+    "name": "Aula_Especificacao_Caso_Uso_Extra.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/Aula_Especificacao_Caso_Uso_Extra.pdf",
+    "size_human": "452.8 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Aula_Especificacao_Caso_Uso_Extra.pdf"
+  },
+  {
+    "name": "Aula_Modelo_Caso_de_Uso.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/Aula_Modelo_Caso_de_Uso.pdf",
+    "size_human": "1.2 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Aula_Modelo_Caso_de_Uso.pdf"
+  },
+  {
+    "name": "Cenario_caso_uso_classes_parte1.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/Cenario_caso_uso_classes_parte1.pdf",
+    "size_human": "606.3 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Cenario_caso_uso_classes_parte1.pdf"
+  },
+  {
+    "name": "Cenario_PDS.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/Cenario_PDS.pdf",
+    "size_human": "21.0 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Cenario_PDS.pdf"
+  },
+  {
+    "name": "Diagrama_Estados.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/Diagrama_Estados.pdf",
+    "size_human": "448.9 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Diagrama_Estados.pdf"
+  },
+  {
+    "name": "Diagrama_Sequencia.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/Diagrama_Sequencia.pdf",
+    "size_human": "650.2 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Diagrama_Sequencia.pdf"
+  },
+  {
+    "name": "PDS_2026_1_Planejamento.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/PDS_2026_1_Planejamento.pdf",
+    "size_human": "99.1 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/PDS_2026_1_Planejamento.pdf"
+  },
+  {
+    "name": "PDS_Apresentacao_Disciplina_Revisao_ES.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/PDS_Apresentacao_Disciplina_Revisao_ES.pdf",
+    "size_human": "630.6 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/PDS_Apresentacao_Disciplina_Revisao_ES.pdf"
+  },
+  {
+    "name": "PDS_Mecanismos_gerais_UML.pdf",
+    "discipline": "PDS (Davi)",
+    "category": "Geral",
+    "relative_path": "PDS (Davi)/PDS_Mecanismos_gerais_UML.pdf",
+    "size_human": "1.6 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/PDS_Mecanismos_gerais_UML.pdf"
+  },
+  {
+    "name": "Princípios de Análise e Projeto de Sistema com UML -- Eduardo Bezerra -- 2015 -- Elsevier Editora Ltda_ -- f0a57e77d825d824d4b30e4bb02df50e -- Anna’s Archive.mobi",
+    "discipline": "PDS (Davi)",
+    "category": "Livros",
+    "relative_path": "PDS (Davi)/Livros/Princípios de Análise e Projeto de Sistema com UML -- Eduardo Bezerra -- 2015 -- Elsevier Editora Ltda_ -- f0a57e77d825d824d4b30e4bb02df50e -- Anna’s Archive.mobi",
+    "size_human": "4.6 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/PDS%20%28Davi%29/Livros/Princ%C3%ADpios%20de%20An%C3%A1lise%20e%20Projeto%20de%20Sistema%20com%20UML%20--%20Eduardo%20Bezerra%20--%202015%20--%20Elsevier%20Editora%20Ltda_%20--%20f0a57e77d825d824d4b30e4bb02df50e%20--%20Anna%E2%80%99s%20Archive.mobi"
+  },
+  {
+    "name": "Aula_00_-_Apresentao_Disciplina.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Geral",
+    "relative_path": "Quimica Orgânica (Jemmla)/Aula_00_-_Apresentao_Disciplina.pdf",
+    "size_human": "1.3 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Aula_00_-_Apresentao_Disciplina.pdf"
+  },
+  {
+    "name": "Aula_02_-_1.1_Estrutura_de_Compostos_Orgnicos.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Geral",
+    "relative_path": "Quimica Orgânica (Jemmla)/Aula_02_-_1.1_Estrutura_de_Compostos_Orgnicos.pdf",
+    "size_human": "1.8 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Aula_02_-_1.1_Estrutura_de_Compostos_Orgnicos.pdf"
+  },
+  {
+    "name": "Aula_03-_1.1_Estrutura_de_Compostos_Orgnicos.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Geral",
+    "relative_path": "Quimica Orgânica (Jemmla)/Aula_03-_1.1_Estrutura_de_Compostos_Orgnicos.pdf",
+    "size_human": "1.5 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Aula_03-_1.1_Estrutura_de_Compostos_Orgnicos.pdf"
+  },
+  {
+    "name": "Aula_04-_1.2_Cadeias_Carbonicas.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Geral",
+    "relative_path": "Quimica Orgânica (Jemmla)/Aula_04-_1.2_Cadeias_Carbonicas.pdf",
+    "size_human": "1.1 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Aula_04-_1.2_Cadeias_Carbonicas.pdf"
+  },
+  {
+    "name": "Aula_Start_-_1.1_Estrutura_de_Compostos_Orgnicos.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Geral",
+    "relative_path": "Quimica Orgânica (Jemmla)/Aula_Start_-_1.1_Estrutura_de_Compostos_Orgnicos.pdf",
+    "size_human": "2.1 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Aula_Start_-_1.1_Estrutura_de_Compostos_Orgnicos.pdf"
+  },
+  {
+    "name": "Lista_01_-_Qumica_Organica.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Geral",
+    "relative_path": "Quimica Orgânica (Jemmla)/Lista_01_-_Qumica_Organica.pdf",
+    "size_human": "1.3 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Lista_01_-_Qumica_Organica.pdf"
+  }
+]

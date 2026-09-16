@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bras%C3%A3o_da_Universidade_Federal_do_Maranh%C3%A3o.svg/300px-Bras%C3%A3o_da_Universidade_Federal_do_Maranh%C3%A3o.svg.png" width="130" alt="Brasão da UFMA">
+  <img src="https://portalpadrao.ufma.br/ineof/imagens/brasao-normal.png/@@images/image.png" width="130" alt="Brasão da UFMA">
 
   # 🎓 ECP-01 • Materiais Acadêmicos
   ### Engenharia de Computação — Universidade Federal do Maranhão (UFMA)

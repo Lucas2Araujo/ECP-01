@@ -168,6 +168,14 @@
     "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Analise%20de%20Sistemas%20Lineares%20%28Pedro%29/Slides/Aula_9_-_Diagrama_de_Blocos.pdf"
   },
   {
+    "name": "Lista_1_Instrumentao.pdf",
+    "discipline": "Instrumentação (Madson)",
+    "category": "Atividades",
+    "relative_path": "Instrumentação (Madson)/Atividades/Lista_1_Instrumentao.pdf",
+    "size_human": "499.6 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Instrumenta%C3%A7%C3%A3o%20%28Madson%29/Atividades/Lista_1_Instrumentao.pdf"
+  },
+  {
     "name": "Modulo_I_-_p1-p2.pdf",
     "discipline": "Instrumentação (Madson)",
     "category": "Slides",
@@ -190,6 +198,38 @@
     "relative_path": "Instrumentação (Madson)/Slides/Modulo_I_-_p4.pdf",
     "size_human": "1.6 MB",
     "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Instrumenta%C3%A7%C3%A3o%20%28Madson%29/Slides/Modulo_I_-_p4.pdf"
+  },
+  {
+    "name": "Modulo_I_-_p5a.pdf",
+    "discipline": "Instrumentação (Madson)",
+    "category": "Slides",
+    "relative_path": "Instrumentação (Madson)/Slides/Modulo_I_-_p5a.pdf",
+    "size_human": "548.2 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Instrumenta%C3%A7%C3%A3o%20%28Madson%29/Slides/Modulo_I_-_p5a.pdf"
+  },
+  {
+    "name": "Modulo_I_-_p6.pdf",
+    "discipline": "Instrumentação (Madson)",
+    "category": "Slides",
+    "relative_path": "Instrumentação (Madson)/Slides/Modulo_I_-_p6.pdf",
+    "size_human": "1.4 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Instrumenta%C3%A7%C3%A3o%20%28Madson%29/Slides/Modulo_I_-_p6.pdf"
+  },
+  {
+    "name": "exercicios_AFD-1.pdf",
+    "discipline": "Linguagens Formais e Autômatos (Bruno)",
+    "category": "Atividades",
+    "relative_path": "Linguagens Formais e Autômatos (Bruno)/Atividades/exercicios_AFD-1.pdf",
+    "size_human": "56.5 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Linguagens%20Formais%20e%20Aut%C3%B4matos%20%28Bruno%29/Atividades/exercicios_AFD-1.pdf"
+  },
+  {
+    "name": "exercicios_AFN-1.pdf",
+    "discipline": "Linguagens Formais e Autômatos (Bruno)",
+    "category": "Atividades",
+    "relative_path": "Linguagens Formais e Autômatos (Bruno)/Atividades/exercicios_AFN-1.pdf",
+    "size_human": "72.0 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Linguagens%20Formais%20e%20Aut%C3%B4matos%20%28Bruno%29/Atividades/exercicios_AFN-1.pdf"
   },
   {
     "name": "exercicios_linguagens_1.pdf",
@@ -238,6 +278,14 @@
     "relative_path": "Linguagens Formais e Autômatos (Bruno)/Slides/Aula_2_redux.pdf",
     "size_human": "368.6 KB",
     "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Linguagens%20Formais%20e%20Aut%C3%B4matos%20%28Bruno%29/Slides/Aula_2_redux.pdf"
+  },
+  {
+    "name": "Aula_3.pdf",
+    "discipline": "Linguagens Formais e Autômatos (Bruno)",
+    "category": "Slides",
+    "relative_path": "Linguagens Formais e Autômatos (Bruno)/Slides/Aula_3.pdf",
+    "size_human": "563.0 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Linguagens%20Formais%20e%20Aut%C3%B4matos%20%28Bruno%29/Slides/Aula_3.pdf"
   },
   {
     "name": "exercicios_logica_demonstracao_2026_1.pdf",
@@ -600,6 +648,30 @@
     "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Atividades/Lista_01_-_Qumica_Organica.pdf"
   },
   {
+    "name": "Lista_de_Exerccio_de_nomenclatura_de_compostos_organicos.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Atividades",
+    "relative_path": "Quimica Orgânica (Jemmla)/Atividades/Lista_de_Exerccio_de_nomenclatura_de_compostos_organicos.pdf",
+    "size_human": "201.4 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Atividades/Lista_de_Exerccio_de_nomenclatura_de_compostos_organicos.pdf"
+  },
+  {
+    "name": "LIsta_de_exerccio_de_nomenclatura_de_hidrocarbonetos.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Atividades",
+    "relative_path": "Quimica Orgânica (Jemmla)/Atividades/LIsta_de_exerccio_de_nomenclatura_de_hidrocarbonetos.pdf",
+    "size_human": "335.8 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Atividades/LIsta_de_exerccio_de_nomenclatura_de_hidrocarbonetos.pdf"
+  },
+  {
+    "name": "Pre-Prova_Unidade_I_-_parte_2.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Atividades",
+    "relative_path": "Quimica Orgânica (Jemmla)/Atividades/Pre-Prova_Unidade_I_-_parte_2.pdf",
+    "size_human": "169.9 KB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Atividades/Pre-Prova_Unidade_I_-_parte_2.pdf"
+  },
+  {
     "name": "Aula_00_-_Apresentao_Disciplina.pdf",
     "discipline": "Quimica Orgânica (Jemmla)",
     "category": "Slides",
@@ -630,6 +702,46 @@
     "relative_path": "Quimica Orgânica (Jemmla)/Slides/Aula_04-_1.2_Cadeias_Carbonicas.pdf",
     "size_human": "1.1 MB",
     "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Slides/Aula_04-_1.2_Cadeias_Carbonicas.pdf"
+  },
+  {
+    "name": "Aula_05_-_2.1_Funo_Orgnica_Hidrocabronetos.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Slides",
+    "relative_path": "Quimica Orgânica (Jemmla)/Slides/Aula_05_-_2.1_Funo_Orgnica_Hidrocabronetos.pdf",
+    "size_human": "2.5 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Slides/Aula_05_-_2.1_Funo_Orgnica_Hidrocabronetos.pdf"
+  },
+  {
+    "name": "Aula_06-_2.1.1_Nomenclatrura_de_Compostos_Orgnicos.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Slides",
+    "relative_path": "Quimica Orgânica (Jemmla)/Slides/Aula_06-_2.1.1_Nomenclatrura_de_Compostos_Orgnicos.pdf",
+    "size_human": "1.5 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Slides/Aula_06-_2.1.1_Nomenclatrura_de_Compostos_Orgnicos.pdf"
+  },
+  {
+    "name": "Aula_07-_2.2_Funo_Orgnica_Oxigenadas.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Slides",
+    "relative_path": "Quimica Orgânica (Jemmla)/Slides/Aula_07-_2.2_Funo_Orgnica_Oxigenadas.pdf",
+    "size_human": "1.4 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Slides/Aula_07-_2.2_Funo_Orgnica_Oxigenadas.pdf"
+  },
+  {
+    "name": "Aula_08_-_2.3_Funo_Orgnica_Nitrogenadas.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Slides",
+    "relative_path": "Quimica Orgânica (Jemmla)/Slides/Aula_08_-_2.3_Funo_Orgnica_Nitrogenadas.pdf",
+    "size_human": "1.4 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Slides/Aula_08_-_2.3_Funo_Orgnica_Nitrogenadas.pdf"
+  },
+  {
+    "name": "Aula_09_-_Reaes_Orgnicas_-_Introduo.pdf",
+    "discipline": "Quimica Orgânica (Jemmla)",
+    "category": "Slides",
+    "relative_path": "Quimica Orgânica (Jemmla)/Slides/Aula_09_-_Reaes_Orgnicas_-_Introduo.pdf",
+    "size_human": "1.2 MB",
+    "download_url": "https://raw.githubusercontent.com/Lucas2Araujo/ECP-01/main/Quimica%20Org%C3%A2nica%20%28Jemmla%29/Slides/Aula_09_-_Reaes_Orgnicas_-_Introduo.pdf"
   },
   {
     "name": "Aula_Start_-_1.1_Estrutura_de_Compostos_Orgnicos.pdf",

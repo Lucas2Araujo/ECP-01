@@ -460,7 +460,7 @@
                 </a>
 
                 ${canPreview ? `
-                  <button type="button" class="btn-action btn-preview" data-preview-index="${filtered.indexOf(item)}" data-preview-url="${escapeHTML(item.download_url)}" data-file-name="${escapeHTML(item.name)}" data-file-meta="${escapeHTML(item.discipline)} • ${escapeHTML(item.category)} • ${escapeHTML(item.size_human)}" data-file-ext="${ext}" title="Pré-visualizar ${escapeHTML(item.name)}">
+                  <button type="button" class="btn-action btn-preview" data-preview-index="${filtered.indexOf(item)}" data-preview-url="${encodeURI(item.relative_path)}" data-download-url="${escapeHTML(item.download_url)}" data-file-name="${escapeHTML(item.name)}" data-file-meta="${escapeHTML(item.discipline)} • ${escapeHTML(item.category)} • ${escapeHTML(item.size_human)}" data-file-ext="${ext}" title="Pré-visualizar ${escapeHTML(item.name)}">
                     <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                       <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8z"></path>
                       <circle cx="12" cy="12" r="3"></circle>
@@ -527,6 +527,7 @@
       if (isPreviewable(ext)) {
         state.previewIndex = targetIndex;
         openPreview(
+          encodeURI(item.relative_path),
           item.download_url,
           item.name,
           `${item.discipline} • ${item.category} • ${item.size_human}`,
@@ -539,7 +540,7 @@
     }
   }
 
-  function openPreview(url, fileName, fileMeta, ext, index = -1) {
+  function openPreview(previewUrl, downloadUrl, fileName, fileMeta, ext, index = -1) {
     if (!DOM.previewModal) return;
 
     state.previewIndex = index;
@@ -551,22 +552,22 @@
     DOM.previewModalIcon.className = `preview-file-icon ${icon.typeClass}`;
     DOM.previewModalIcon.innerHTML = icon.svg;
 
-    DOM.previewDownloadBtn.href = url;
+    DOM.previewDownloadBtn.href = downloadUrl || previewUrl;
     DOM.previewDownloadBtn.setAttribute('download', fileName);
-    DOM.previewNewTabBtn.href = url;
+    DOM.previewNewTabBtn.href = previewUrl;
 
     // Constrói o corpo do preview de acordo com o tipo do arquivo
     DOM.previewModalBody.innerHTML = '';
 
     if (['png', 'jpg', 'jpeg', 'svg', 'webp', 'gif'].includes(ext)) {
       const img = document.createElement('img');
-      img.src = url;
+      img.src = previewUrl;
       img.alt = fileName;
       img.loading = 'lazy';
       DOM.previewModalBody.appendChild(img);
     } else if (ext === 'pdf') {
       const iframe = document.createElement('iframe');
-      iframe.src = url;
+      iframe.src = previewUrl;
       iframe.title = fileName;
       DOM.previewModalBody.appendChild(iframe);
     } else {
@@ -578,8 +579,8 @@
           <h3>Pré-visualização não suportada para este formato</h3>
           <p>Você pode abrir diretamente em uma nova aba ou realizar o download do arquivo.</p>
           <div style="display: flex; gap: 0.5rem;">
-            <a href="${escapeHTML(url)}" download="${escapeHTML(fileName)}" class="btn-action btn-download">Baixar arquivo</a>
-            <a href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer" class="btn-action btn-preview">Abrir link</a>
+            <a href="${escapeHTML(downloadUrl || previewUrl)}" download="${escapeHTML(fileName)}" class="btn-action btn-download">Baixar arquivo</a>
+            <a href="${escapeHTML(previewUrl)}" target="_blank" rel="noopener noreferrer" class="btn-action btn-preview">Abrir link</a>
           </div>
         </div>
       `;
@@ -670,12 +671,13 @@
       const previewBtn = e.target.closest('.btn-preview');
       if (previewBtn && previewBtn.dataset.previewUrl) {
         e.preventDefault();
-        const url = previewBtn.dataset.previewUrl;
+        const previewUrl = previewBtn.dataset.previewUrl;
+        const downloadUrl = previewBtn.dataset.downloadUrl;
         const name = previewBtn.dataset.fileName;
         const meta = previewBtn.dataset.fileMeta;
         const ext = previewBtn.dataset.fileExt;
         const index = parseInt(previewBtn.dataset.previewIndex, 10);
-        openPreview(url, name, meta, ext, isNaN(index) ? -1 : index);
+        openPreview(previewUrl, downloadUrl, name, meta, ext, isNaN(index) ? -1 : index);
       }
     });
 
